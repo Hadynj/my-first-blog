@@ -1,4 +1,8 @@
+---
+title: Welcome to my blog!
+---
 
+# Python snippet
 ```Python
 print("Hello world")
 print("Learning Python is fun!")
