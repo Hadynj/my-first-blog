@@ -2,7 +2,7 @@
 title: Welcome to my blog!
 ---
 
-# Python snippet
+### Python code snippet
 ```Python
 print("Hello world")
 print("Learning Python is fun!")
