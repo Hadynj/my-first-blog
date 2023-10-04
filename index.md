@@ -14,9 +14,7 @@ print("Learning Python is fun!")
 
 # Let's Play Tic Tac Toe
  https://hadynj.github.io/my-first-blog/
-```
-source: GitHub (https://github.com/Hadynj/skills-review-pull-requests/blob/main/index.html)
-```
+
 
 
 
